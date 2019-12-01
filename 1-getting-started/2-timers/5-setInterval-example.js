@@ -1,4 +1,4 @@
 setInterval(
-  () => console.log('Hello every 3 seconds'),
-  3000
+  () => console.log('You have been hacked'),
+  50
 );
